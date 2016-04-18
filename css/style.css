@@ -83,7 +83,7 @@ body {
     width: 500px;
     height: 60px;
     margin: 10px;
-    border: 3px solid #73AD21;
+    border: 3px solid #FFDF00;
 }
 
 
@@ -175,4 +175,3 @@ li a:hover {
 
 .row {
   *zoom: 1;
-}
